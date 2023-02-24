@@ -1,6 +1,5 @@
 player,role,tier
-monbreak,TOP,16
-monbreak,JG,10
+monbreak,TOP,24
 monbreak,MID,24
-monbreak,ADC,24
+monbreak,ADC,10
 monbreak,SUP,30

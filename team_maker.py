@@ -124,5 +124,5 @@ if __name__ == "__main__":
     print(f"Team A (Total tier = {team_a.tier_sum})")
     print(team_a)
     print()
-    print(f"Team A (Total tier = {team_b.tier_sum})")
+    print(f"Team B (Total tier = {team_b.tier_sum})")
     print(team_b)
